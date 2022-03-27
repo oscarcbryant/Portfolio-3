@@ -35,33 +35,29 @@ body {
     display: flex;
 }
 
+h3 {
+    color: rgb(9, 214, 241)
+}
+
 #text {
     color: black;
     text-align: end;
 }
 
-#travel-image {
+#project-image {
     border-radius: 15%;
-    height: 300px;
-    width: 450px;
+    height: 180px;
+    width: 250px;
     
 }
 
-#weather-image {
-    border-radius: 15%;
-    height: 300px;
-    width: 450px;
-    border-color: black;
 
-
-}
-
-#content-div {
+/* #content-div {
     display: flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     justify-content: space-evenly;
     padding-bottom: 50px;
-}
+} */
 
 #content-menu {
     display: flex;
