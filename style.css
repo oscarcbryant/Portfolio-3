@@ -51,6 +51,12 @@ h3 {
     
 }
 
+#projects {
+    display: flex;
+    /* align-items: center; */
+    
+}
+
 
 /* #content-div {
     display: flex;
