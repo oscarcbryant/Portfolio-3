@@ -57,7 +57,8 @@ body {
 }
 
 h3 {
-    color: rgb(9, 214, 241)
+    color: rgb(9, 214, 241);
+    font-size: xx-large;
 }
 
 #text {
@@ -116,6 +117,10 @@ button {
 #content-menu {
     display: flex;
     flex-direction: column;
+}
+
+#contact-div{
+    padding-top: 100px;
 }
 
 #Contact-Me {
