@@ -39,30 +39,38 @@ body {
 
 #rosedale {
 
-    width: 80%;
-    display: flex;
-    height: 200px;
+    /* display: flex; */
+    width: 100%;
+    height: 400px;
 
 }
 
 #oscar {
-    width: 25%;
-    height: 200px;
+    width: 15%;
+    height: auto;
+    z-index: 1;
+    float: left;
 }
 
-#header-pics {
+#text {
+    /* display: flex; */
+   text-align: right;
+   padding-left: 20px;
+}
+/* #header-pics {
 
     display: flex;
-}
+} */
 
 h3 {
     color: rgb(9, 214, 241);
     font-size: xx-large;
 }
 
-#text {
+#about {
     color: black;
     text-align: end;
+    display: flex;
 }
 
 #project-image {
