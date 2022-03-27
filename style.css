@@ -48,11 +48,14 @@ h3 {
     border-radius: 15%;
     height: 180px;
     width: 250px;
+    padding: 20px;
+
     
 }
 
 #projects {
     display: flex;
+    flex-wrap: wrap;
     /* align-items: center; */
     
 }
