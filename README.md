@@ -8,6 +8,8 @@ There were no user stories assinged to this task, but we needed to make sure the
 
 We were tasked with deploying coding practices we have learnt during class over the past few months.
 
+We needed to ensure the project had numerous commits with code written cleanly and professionally.
+
 # Outcome
 
 You can access our most up-to-date profile page here: https://oscarcbryant.github.io/Portfolio-3/
