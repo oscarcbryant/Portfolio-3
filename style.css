@@ -17,9 +17,8 @@ body {
     justify-content: bottom; */
     margin-left: 10px;
     margin-right: 10px;
-    padding-top: 20px;
-    font-weight: 300px;
-    text-decoration: solid;
+    font-size: xx-large;
+
     
 }
 
@@ -80,6 +79,7 @@ h3 {
 #projects {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
     /* align-items: center; */
     box-shadow: 15px;
     
