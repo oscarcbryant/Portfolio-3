@@ -18,6 +18,13 @@ Here is a screenshot of our portfolio:
 
 ![Alt text](Images/screenshot.jpg)
 
+# Technologies Used
+
+HTML
+CSS
+JavaScript
+Icon Libraries
+
 ## About the Author
 
 This project was written and submitted by: 
